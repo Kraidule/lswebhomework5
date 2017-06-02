@@ -1,0 +1,39 @@
+div.redbg {
+        width: 600px;
+        height:50px;
+        background:red;
+       
+}
+div.yellowbgleft {
+        width:100px;
+        height:500px;
+        background:yellow;
+        float:left;
+}
+
+div.yellowbgright {
+    width: 100px;
+    height: 500px;
+    background: yellow;
+    float:right;
+    right:741px;
+    position: fixed;
+    
+}
+
+div.bluebg {
+    width: 400px;
+    height: 450px;
+    background: blue;
+    float:left;
+}
+
+div.greenbg {
+    width: 400px;
+    height: 50px;
+    background: green;
+    margin-top: 450px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
