@@ -1,0 +1,109 @@
+div.purplebg {
+    width: 810px;
+    height: 68px;
+    background: purple;
+   
+}
+
+div.redbg {
+    width: 535px;
+    height: 800px;
+    background: red;
+    margin-left:135px;
+}
+
+div.blue1bg {
+    width: 370px;
+    height: 200px;
+    background: blue;
+    margin-top:-730px;
+    margin-left:220px;
+    margin-bottom:0px;
+    position:absolute;
+}
+
+div.yellow1bg {
+    width: 120px;
+    height: 100px;
+    background: yellow;
+    margin-top:-709px;
+    margin-left:236px;
+    margin-bottom:0px;
+    position:absolute;
+    
+}
+
+div.green1bg {
+    width: 200px;
+    height: 140px;
+    background: green;
+    margin-top:-710px;
+    margin-left:378px;
+    position:absolute;
+    
+}
+
+div.blue2bg {
+    width: 370px;
+    height: 200px;
+    background: blue;
+    margin-top:-500px;
+    margin-left:220px;
+    margin-bottom:0px;
+    position:absolute;
+}
+
+div.yellow2bg {
+    width: 120px;
+    height: 100px;
+    background: yellow;
+    margin-top:-480px;
+    margin-left:236px;
+    margin-bottom:0px;
+    position:absolute;
+    
+}
+
+div.green2bg {
+    width: 200px;
+    height: 140px;
+    background: green;
+    margin-top:-481px;
+    margin-left:378px;
+    position:absolute;
+    
+}
+
+div.blue3bg {
+    width: 370px;
+    height: 200px;
+    background: blue;
+    margin-top:-270px;
+    margin-left:220px;
+    margin-bottom:0px;
+    position:absolute;
+}
+
+div.yellow3bg {
+    width: 120px;
+    height: 100px;
+    background: yellow;
+    margin-top:-250px;
+    margin-left:236px;
+    margin-bottom:0px;
+    position:absolute;
+    
+}
+
+div.green3bg {
+    width: 200px;
+    height: 140px;
+    background: green;
+    margin-top:-250px;
+    margin-left:378px;
+    position:absolute; 
+    
+} 
+
+
+
