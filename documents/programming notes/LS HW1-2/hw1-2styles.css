@@ -1,0 +1,36 @@
+div.redbg {
+    width: 600px;
+    height: 71px;
+    background: red;
+   
+}
+
+div.bluebg {
+    width: 200px;
+    height: 500px;
+    background: blue;
+    float:left;
+}
+
+div.purplebg {
+    width: 200px;
+    height: 500px;
+    background: purple;
+    float: left;
+}
+
+div.yellowbg {
+    width: 200px;
+    height: 500px;
+    background: yellow;
+    float: left;
+}
+
+div.greenbg {
+    width: 600px;
+    height: 73px;
+    background: green;
+    margin-top: 500px;
+    
+}
+
