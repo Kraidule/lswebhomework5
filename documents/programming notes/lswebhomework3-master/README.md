@@ -25,16 +25,6 @@ I'm learning: How to program so that I can do game design at some point.
 
 ## Task Two ##
 
-1. Create a new repository on Github at github.com/yourusername/hellolambdaschool.
-
-2. Inside that repository create a file at README.md, and enter the following in that file:
-
 ```
 I am learning how to use git at Lambda School's [online code bootcamp](https://lambdaschool.com/mini-bootcamp)
 ```
-
-3. Push your changes to your new repository.
-
-That's it. Good luck!
-
-*For extra credit, practice this a few times with a few different repositories.*
